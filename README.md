@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dhruv Upadhyay</h1>
 
-<!--
-**dhruv24001/dhruv24001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Skill Set
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, Python
+- **Backend:** Java, Spring Boot
+- **Core:** OOP, Data Structures & Algorithms
+- **Cloud and Deployment:** AWS S3, Vercel, Render, Railway
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Tools:** Git, GitHub, Maven, Postman
+
+---
+
+## Currently Learning:
+
+- Java & Object-Oriented Programming
+- Spring Boot & Backend Development
+- Building real-world projects
+- Learning System Design
+- Learning Cloud Computing 
