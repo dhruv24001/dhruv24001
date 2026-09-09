@@ -4,11 +4,11 @@
 ## Skill Set
 
 - **Languages:** Java, Python
-- **Backend:** Spring, Spring Boot
+- **Backend:** FastAPI, Spring, Spring Boot
 - **Core:** OOP, Data Structures & Algorithms
 - **Cloud and Deployment:** AWS S3, Vercel, Render, Railway
 - **Databases:** PostgreSQL, MySQL, MongoDB
-- **Tools:** Git, GitHub, Maven, Postman
+- **Tools:** Git, GitHub, Maven, Docker, Postman
 
 ---
 
