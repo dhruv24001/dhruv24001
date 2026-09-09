@@ -2,9 +2,8 @@
 <h3 align="center">Backend Developer | Java & Python | Building scalable, real-world systems</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dhruv2401"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:udhruv444@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -56,7 +55,6 @@
 
 ### 🚀 Featured Projects
 
-
 <table>
   <tr>
     <td width="100%">
@@ -82,13 +80,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruv24001&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv24001&layout=compact&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=dhruv24001&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv24001&hide_border=true" />
-</p>
 
 ---
 
@@ -98,3 +92,14 @@
   <a href="https://linkedin.com/in/dhruv2401">LinkedIn</a> •
   <a href="mailto:udhruv444@gmail.com">Email</a> 
 </p>
+
+<!--
+Note on GitHub Stats cards: the free public github-readme-stats.vercel.app service
+is known to hit Vercel's rate limits and sometimes returns blank cards for everyone,
+not just this profile (see github.com/anuraghazra/github-readme-stats/issues/4748
+and /issues/4680). If the cards above stay blank after a day or two, the most
+reliable fix is to deploy your own free instance:
+  1. Fork https://github.com/anuraghazra/github-readme-stats
+  2. Deploy it to your own Vercel account (one-click "Deploy" button in that repo)
+  3. Replace "github-readme-stats.vercel.app" above with your own deployment URL
+-->
