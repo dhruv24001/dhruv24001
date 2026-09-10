@@ -8,4 +8,4 @@
 
 <h3 align="left">Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,spring,fastapi,postgres,mysql,mongodb,aws,docker,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,go,spring,fastapi,postgres,mongodb,aws,docker,git,postman)](https://skillicons.dev)
