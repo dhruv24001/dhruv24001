@@ -1,6 +1,6 @@
 ### Hi, I'm Dhruv Upadhyay 
 
--  Software Engineer, building scalable systems with **Python**
+-  Software Engineer, building scalable systems
 
 -  Currently learning **AI Engineering**, **Backend Development using Java & Spring Boot** and **Cloud Computing**
 
