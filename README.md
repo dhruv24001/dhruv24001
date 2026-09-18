@@ -1,6 +1,6 @@
 ### Hi, I'm Dhruv Upadhyay 
 
--  Software Engineer, focused on backend architecture, system design, and building resilient, performance-driven applications.
+-  Software Engineer, focused on AI Applications, backend development, system design, and building resilient, AI-driven applications.
 
 -  Currently learning **AI Engineering**, **Backend Development using Java & Spring Boot** and **Cloud Computing**
 
