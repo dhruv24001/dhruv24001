@@ -2,9 +2,9 @@
 
 -  Software Engineer, focused on AI Applications, backend development, system design, and building resilient, AI-driven applications.
 
--  Currently learning **AI Engineering**, **Backend Development using Java & Spring Boot** and **Cloud Computing**
+-  Currently learning **AI Engineering**, **Backend Development using Java & Spring Boot** and **Cloud Computing**.
 
--  Open to **internship & entry-level software engineer** opportunities
+-  Open to **internship & entry-level software engineer** opportunities.
 
 <h3 align="left">Languages and Tools</h3>
 
